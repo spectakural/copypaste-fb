@@ -1,0 +1,16 @@
+{
+    "short_name": "CopyPaste",
+    "name": "CopyPaste",
+    "icons": {
+        "16": "vite.svg",
+        "48": "vite.svg",
+        "128": "vite.svg"
+    },
+    "permissions": [],
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "CopyPaste"
+    }
+}
